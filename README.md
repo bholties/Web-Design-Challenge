@@ -1,4 +1,4 @@
-# Web-Design-Challenge 
+# Web-Design-Challenge  https://bholties.github.io/bholties.github.io-latitude-web-design/
 Background
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
